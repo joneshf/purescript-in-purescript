@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "files": ["dist", "prelude"],
   "bin": {
-    "psc2": "dist/psc.js",
-    "psci2": "dist/psci.js",
-    "psc-make2": "dist/psc-make.js"
+    "psc2": "js/psc.js",
+    "psci2": "js/psci.js",
+    "psc-make2": "js/psc-make.js"
   },
   "preferGlobal": true,
   "devDependencies": {
