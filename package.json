@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "purescript",
+  "name": "purescript-in-purescript",
   "version": "0.0.0",
   "files": ["dist", "prelude"],
   "bin": {
